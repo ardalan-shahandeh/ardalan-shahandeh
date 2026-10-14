@@ -2,10 +2,10 @@
 
 <img width="100%" alt="Ardalan Shahandeh — Front-End Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020420,55:061A2B,100:00DC82&section=header&text=ARDALAN%20SHAHANDEH&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20Vue.js%20%7C%20Nuxt%20%7C%20TypeScript&descSize=15&descAlignY=59&descColor=BAFBE2" />
 
-<br>
-
 <a href="https://github.com/Ardalan-Shahandeh"><img src="https://img.shields.io/badge/GitHub-020420?style=for-the-badge&logo=github&logoColor=00DC82" alt="GitHub"></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/ardalan-shahandeh"><img src="https://img.shields.io/badge/LinkedIn-020420?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"></a>
+&nbsp;
 <a href="mailto:shahandeh.dev@gmail.com"><img src="https://img.shields.io/badge/Email-020420?style=for-the-badge&logo=gmail&logoColor=00DC82" alt="Email"></a>
 
 <br><br>
@@ -14,11 +14,15 @@
 
 </div>
 
+---
+
 ## About
 
-I’m **Ardalan Shahandeh**, a Front-End Engineer with **5+ years** of experience building production web applications. My day-to-day toolkit is **Vue.js, Nuxt, TypeScript, JavaScript, Pinia, and Tailwind CSS**.
+I’m **Ardalan Shahandeh**, a Front-End Engineer with **5+ years** of experience shipping production web applications.
 
-I care about clear architecture, reusable UI systems, performance, SEO, and maintainable code. I have built PWAs, SDKs, dashboards, and component libraries, and I enjoy turning legacy frontends into smaller, more predictable systems. I’m currently expanding into **React, Next.js, Node.js, Docker, and AI-assisted development**—with human review at every important boundary.
+My core stack is **Vue.js, Nuxt, TypeScript, JavaScript, Pinia, and Tailwind CSS**. I focus on clear architecture, reusable UI systems, performance, SEO, and code that’s easy to evolve — including PWAs, SDKs, dashboards, and component libraries.
+
+I’m currently expanding into **React, Next.js, Node.js, Docker, and AI-assisted development**, with human review at every important boundary.
 
 ```ts
 const ardalan = {
@@ -29,49 +33,63 @@ const ardalan = {
 };
 ```
 
+---
+
 ## Stack
 
-**Core front-end**
+| | |
+| :--- | :--- |
+| **Core front-end** | <img alt="JavaScript TypeScript Vue Nuxt Pinia" src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,pinia&theme=dark&perline=5" /> |
+| **UI and delivery** | <img alt="HTML CSS Sass Tailwind Vite Git GitHub" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vite,git,github&theme=dark&perline=7" /> |
+| **Exploring** | <img alt="React Next.js Node.js Docker" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,docker&theme=dark&perline=4" /> |
 
-<img alt="JavaScript TypeScript Vue Nuxt Pinia" src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,pinia&theme=dark&perline=5">
+`AI-assisted development` · `PWA` · `SEO` · `design systems`
 
-**UI and delivery**
-
-<img alt="HTML CSS Sass Tailwind Vite Git GitHub" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vite,git,github&theme=dark&perline=7">
-
-**Exploring**
-
-<img alt="React Next.js Node.js Docker" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,docker&theme=dark&perline=4">
-
-`AI-assisted development` · `LLM APIs` · `automation` · `PWA` · `SEO`
+---
 
 ## Selected Work
 
-| Project | What it demonstrates |
-| :--- | :--- |
-| [telegram-gpt-bot](https://github.com/Ardalan-Shahandeh/telegram-gpt-bot) | A Telegram AI assistant with persistent chat sessions, LLM integration, and a TypeScript/Node.js stack. |
-| **Maps & SDK work** | JavaScript SDKs, Vue wrappers, map-based products, and reusable packages built for production frontends. |
-| **PWA & design systems** | Offline-capable applications, caching strategies, custom UI libraries, and maintainable component systems. |
+| Project | Stack | What it demonstrates |
+| :--- | :--- | :--- |
+| [aparat-video](https://github.com/Ardalan-Shahandeh/aparat-video) | Nuxt 3 · Vue · Tailwind | RTL video browse/search UI with pagination, detail pages, and Aparat API integration. |
+| [new-task-manager](https://github.com/Ardalan-Shahandeh/new-task-manager) | Vue 3 · TypeScript · Pinia · Vuetify | Task dashboard with auth flow, CRUD, search, and a reusable admin-style UI. |
+| [telegram-gpt-bot](https://github.com/Ardalan-Shahandeh/telegram-gpt-bot) | TypeScript · Node.js | Telegram AI assistant with OpenRouter integration and strict TypeScript. |
+| [shopping-Nuxt3](https://github.com/Ardalan-Shahandeh/shopping-Nuxt3) | Nuxt 3 · Tailwind | Nuxt shopping UI exploring composition, routing, and utility-first styling. |
+| [weather-app](https://github.com/Ardalan-Shahandeh/weather-app) | Nuxt 3 · Tailwind | Compact weather client built with Vue 3 / Nuxt 3. |
+
+---
 
 ## GitHub Activity
 
 <div align="center">
-<a href="https://github.com/Ardalan-Shahandeh"><img height="165" alt="Ardalan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Ardalan-Shahandeh&show_icons=true&hide_border=true&hide_title=true&hide=issues&bg_color=020420&title_color=00DC82&icon_color=00E5FF&text_color=C7D2FE&include_all_commits=true"></a>
-<a href="https://github.com/Ardalan-Shahandeh"><img height="165" alt="Ardalan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardalan-Shahandeh&layout=compact&hide_border=true&bg_color=020420&title_color=00DC82&text_color=C7D2FE&langs_count=6"></a>
+  <a href="https://github.com/Ardalan-Shahandeh">
+    <img height="165" alt="Ardalan's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Ardalan-Shahandeh&show_icons=true&hide_border=true&hide_title=true&hide=issues&bg_color=020420&title_color=00DC82&icon_color=00E5FF&text_color=C7D2FE&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/Ardalan-Shahandeh">
+    <img height="165" alt="Ardalan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardalan-Shahandeh&layout=compact&hide_border=true&bg_color=020420&title_color=00DC82&text_color=C7D2FE&langs_count=6" />
+  </a>
 </div>
+
+---
 
 ## Contribution Snake
 
-The animation below is generated by GitHub Actions from my contribution graph and published to the `output` branch.
+Animated from my real GitHub contribution graph via [Platane/snk](https://github.com/Platane/snk). Generated by GitHub Actions and published to the `output` branch.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ardalan-Shahandeh/Ardalan-Shahandeh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ardalan-Shahandeh/Ardalan-Shahandeh/output/github-contribution-grid-snake.svg">
-  <img alt="Animated contribution graph snake" src="https://raw.githubusercontent.com/Ardalan-Shahandeh/Ardalan-Shahandeh/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ardalan-Shahandeh/Ardalan-Shahandeh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ardalan-Shahandeh/Ardalan-Shahandeh/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ardalan-Shahandeh/Ardalan-Shahandeh/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
 
 ## Let’s Connect
 
 [GitHub](https://github.com/Ardalan-Shahandeh) · [LinkedIn](https://www.linkedin.com/in/ardalan-shahandeh) · [shahandeh.dev@gmail.com](mailto:shahandeh.dev@gmail.com)
 
-<div align="center"><img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00DC82,45:004D40,100:020420&height=110&section=footer"></div>
+<div align="center">
+  <img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:00DC82,45:004D40,100:020420&height=110&section=footer" />
+</div>
